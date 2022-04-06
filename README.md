@@ -16,7 +16,7 @@ which has been accepted by *Neurocomputing2021*.
 
 ## Citing
 
-    
+```
   @article{jLDEC,
   author    = {Dongyuan Li and
                Qiang Lin and
@@ -33,3 +33,4 @@ which has been accepted by *Neurocomputing2021*.
   biburl    = {https://dblp.org/rec/journals/ijon/LiLM21.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
   }
+```
